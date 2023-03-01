@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QA_2_Browser_Testing", "QA_2_Browser_Testing\QA_2_Browser_Testing.csproj", "{A58EB810-50C6-4D5D-B392-8797EE1E083C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A58EB810-50C6-4D5D-B392-8797EE1E083C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58EB810-50C6-4D5D-B392-8797EE1E083C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58EB810-50C6-4D5D-B392-8797EE1E083C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58EB810-50C6-4D5D-B392-8797EE1E083C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CCA61D8-EE37-4B39-936E-CC3C8FBEBF9C}
+	EndGlobalSection
+EndGlobal

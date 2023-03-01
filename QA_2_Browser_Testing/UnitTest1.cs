@@ -15,7 +15,7 @@ namespace QA_2_Browser_Testing
                 driver.Navigate().GoToUrl("https://svelte.dev/");
 
                 // QR Code Generator
-                // https://qreader.online/
+                // https://me-qr.com/
 
                 // QR Code Readers
                 // https://qreader.online/

@@ -29,6 +29,12 @@ namespace QA_2_Browser_Testing
                 // https://4qrcode.com/ + https://4qrcode.com/scan-qr-code.php
                 // https://qreader.online/generate + https://qreader.online/
                 // https://me-qr.com/ + https://me-qr-scanner.com/qr-scanner#scan-using-file
+
+
+                // File Download
+                // https://www.youtube.com/watch?v=w1QA5-rYELg
+                // https://www.youtube.com/watch?v=_8fwyB0t5Ac
+
                 List<String> names = new()
                 {
                     "Kevin", "Le"

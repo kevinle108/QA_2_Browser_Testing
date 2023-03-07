@@ -1,4 +1,4 @@
-# **QA Analyst | Course 2**
+﻿# **QA Analyst | Course 2**
 
 # Final Project
 
